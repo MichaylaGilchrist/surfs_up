@@ -8,3 +8,6 @@ A great way to see if surfing and ice cream eating would be desirable year aroun
 3. The lowest 25% of temperatures starts at 73 degrees F for June and 69 degrees F for December. This is close enough in temperature. 
 ## Summary
 Overall, a surf and ice cream shop would be a great business to run all year long! There may be some colder weather in December but not enough to deter the true ice cream eating, wild wave riding believers. 
+Two additional queries that could be included to further determine suitability would be:
+1. Analyizing wind speed and swell size. These variables will play a direct role in surfability for the area. 
+2. When developing open times for the shop take into account the Tide times - surfing may take place at different times than typical ice cream eating hours. 
